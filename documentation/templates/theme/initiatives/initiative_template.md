@@ -19,8 +19,14 @@ Assumptions: Assumptions made about the initiative include that participants hav
 Risks: Risks for the initiative include technical issues with the online platform, low participation rates, and lack of interest from participants.
 
 Dependencies: Dependencies for the initiative include the completion of the Soccer 101 for Kids webclass and the availability of team members to support the initiative.
+<<<<<<< HEAD
 
 Team: The team for the initiative includes a content developer, technical support team, marketing and communications team, project manager, and administrative support.
+=======
+
+Team: The team for the initiative includes a content developer, technical support team, marketing and communications team, project manager, and administrative support.
+
+>>>>>>> a7bc005d88c5cb753d2dff1c38ccd352144e2c34
 
 # List epics related to this theme
 1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)

@@ -13,8 +13,14 @@ Risks: Risks for the epic include low engagement from participants, challenges w
 Estimated Effort: The effort required to complete the epic is estimated to be around 100 hours, including development of content, creation of learning resources, and delivery of classes.
 
 Business Value: The business value delivered by the epic is increased interest and participation in soccer programs, improved physical fitness and coordination for kids, and increased awareness of the benefits of an active lifestyle.
+<<<<<<< HEAD
 
 Priority: The epic has a high priority, as it forms the foundation for future soccer-related initiatives and lays the groundwork for developing more advanced skills and techniques.
+=======
+
+Priority: The epic has a high priority, as it forms the foundation for future soccer-related initiatives and lays the groundwork for developing more advanced skills and techniques.
+
+>>>>>>> a7bc005d88c5cb753d2dff1c38ccd352144e2c34
 
 # List stories related to this theme
 1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
